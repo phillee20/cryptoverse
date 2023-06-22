@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with ReactJS and Ant Design. It is a site that will show the latest cryptocurrency coin rankings and related news. The data is pulled in from Coin Ranking API and Bing News API.
 
-## Available Scripts
+This is my first project created with Ant Design and the goal is to get first experience with this open source, JavaScript framework. This project also allows me to practice working with API and retrieving information for my own use.
 
-In the project directory, you can run:
+How to View the project
+To view the project, you copy the HTTPS clone code from Github Repo and paste it to your own destination.
+
+https://github.com/YOURGITHUBUSERNAME/cryptoverse.git
+
+
 
 ### `npm start`
 
@@ -14,10 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
